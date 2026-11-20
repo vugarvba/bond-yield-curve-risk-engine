@@ -1,0 +1,5 @@
+Portfolio,Instrument,Maturity (Y),Signed face (€),Market value (€)
+Parallel DV01 hedge,10Y zero,10.0,-6795531.331603242,-4816585.329036415
+Key-rate hedge,5Y zero,5.0,-2322360.9569755737,-1980173.2127921344
+Key-rate hedge,10Y zero,10.0,-2809648.680947864,-1991442.899168744
+Key-rate hedge,20Y zero,20.0,-1107882.2269937154,-525529.1019520042
